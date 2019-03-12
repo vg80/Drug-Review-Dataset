@@ -11,3 +11,7 @@ The drug Review dataset is made available recently on UCI machine Learning and a
 2) Sentimental Analysis and Visualizations (R)
 
     Nice visualizations of word cloud and more. 
+
+    https://github.com/vg80/Drug-Review-Dataset/blob/gh-pages/drug_review_sentiments.pdf
+    
+    
